@@ -12,6 +12,8 @@ import {
   IdSchema,
 } from '@/utils/server/base-schemas'
 
+// Cach 1
+
 // export const myFriendRouter = router({
 //   getById: protectedProcedure
 //     .input(
@@ -82,6 +84,8 @@ import {
 //       })
 //     }),
 // })
+
+// Cach 2
 
 export const myFriendRouter = router({
   getById: protectedProcedure
