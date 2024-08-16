@@ -5,7 +5,7 @@ import { db } from '../db'
 let teardownHappened = false
 
 export const setup = async () => {
-  await dropAllData()
+  // await dropAllData()
 }
 
 export const teardown = async () => {
@@ -14,7 +14,7 @@ export const teardown = async () => {
   }
   teardownHappened = true
 
-  await dropAllData()
+  // await dropAllData()
 }
 
 const dropAllData = async () => {
