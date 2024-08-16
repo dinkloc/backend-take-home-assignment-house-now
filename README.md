@@ -1,9 +1,9 @@
 # Backend take-home assignment - Nguyen Dinh Loc
 
-- [Question 1](https://github.com/TheNowProject/backend-take-home-assignment/blob/main/src/server/api/routers/friendship-request-router.ts#L98)
-- [Question 2](https://github.com/TheNowProject/backend-take-home-assignment/blob/main/src/server/api/routers/friendship-request-router.ts#L128)
-- [Question 3](https://github.com/TheNowProject/backend-take-home-assignment/blob/main/src/server/api/routers/friendship-request-router.ts#L69)
-- [Question 4](https://github.com/TheNowProject/backend-take-home-assignment/blob/main/src/server/api/routers/my-friend-router.ts#L25)
+- [Question 1](https://github.com/dinkloc/backend-take-home-assignment-house-now/main/src/server/api/routers/friendship-request-router.ts#L98)
+- [Question 2](https://github.com/dinkloc/backend-take-home-assignment-house-now/main/src/server/api/routers/friendship-request-router.ts#L128)
+- [Question 3](https://github.com/dinkloc/backend-take-home-assignment-house-now/main/src/server/api/routers/friendship-request-router.ts#L69)
+- [Question 4](https://github.com/dinkloc/backend-take-home-assignment-house-now/main/src/server/api/routers/my-friend-router.ts#L25)
 
 ## Context
 
